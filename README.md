@@ -26,7 +26,7 @@ This is an unfinished concept but a game I began developing using Node.JS and 2D
 ### NFT Real Estate Tracker
 ![real estate tracker](https://github.com/bradj00/small-app-proofs-of-concept/blob/main/screenshots/p2e%20NFT%20analytics%20tracking%20tool.png?raw=true)
 
-This is a small tool I wrote to optimize decision making and track building performance in an NFT enabled virtual real estate property management game on Ethereum. It uses web sockets to poll game server data, web3 calls for Ethereum and Polygon on-chain data and a local database cache to reduce calls to external APIs. 
+This is a small tool I wrote to optimize decision making and track building performance in an NFT enabled virtual real estate property management game on Ethereum and Polygon. It uses web sockets to poll game server data, web3 calls for Ethereum and Polygon on-chain data and a local database cache to reduce calls to external APIs. 
 
 
 
