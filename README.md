@@ -11,7 +11,7 @@ Using React.JS and a Moralis SDK backend I created this tool to watch and analyz
 ### ERC20 Contract Analytics - CLI 
 ![ERC20-contractWatcher](https://github.com/bradj00/small-app-proofs-of-concept/blob/main/screenshots/ERC20%20contract%20watch.png?raw=true)
 
-This is a CLI based predecessor to my browser based ERC20 token watcher. It uses Node.JS and raw web3 node calls to a web3 provider (Infura). New addresses are filtered through a lookup engine I created that maps publicly available data to tie addresses to an online identity. 
+This is a CLI based predecessor to my browser based ERC20 token watcher. It uses Node.JS and raw web3 node calls to a web3 provider (Infura). New addresses are filtered through a lookup engine I created that maps publicly available data to tie addresses to an online identity.
 
 ### NFT P2E Game Analytics Tool
 ![NFT p2e game analytics](https://github.com/bradj00/small-app-proofs-of-concept/blob/main/screenshots/p2e%20NFT%20deeper%20game%20analytics%20and%20power%20assessments.png?raw=true)
