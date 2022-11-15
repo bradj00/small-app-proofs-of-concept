@@ -1,5 +1,5 @@
 # small-app-proofs-of-concept
- Most of these tools were written before I created a GitHub account. I can provide source code for any of these upon request.
+ I wrote most of these before I created a GitHub account and are here to showcase my journey building cool tools.
  
 Here is a small gallery of various tools i've written primarily in Vanilla Javascript, Node.JS and React.JS:
 
